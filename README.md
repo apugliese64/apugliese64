@@ -2,9 +2,10 @@
 
 - 🔭 I’m a Senior Solution Architect certified in TOGAF and ITIL best practices.
 
-- In the last years focused on:
-- Cloud Architectures - I'm certified as Azure Solution Architect Expert and AWS Solution Architect Associate
+- 💬 Cloud Architectures - I'm certified as Azure Solution Architect Expert and AWS Solution Architect Associate
+
 - Modern Data Architecture and Big data
+
 - Kubernetes and Cloud Native app
 
 - 📫 How to reach me: https://www.linkedin.com/in/agostino-pugliese-6352782/
